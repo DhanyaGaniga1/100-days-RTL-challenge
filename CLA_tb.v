@@ -1,5 +1,5 @@
 `timescale 10ns / 1ps
-
+                                                   
 module CLA_tb();
 reg [3:0]a,b;
 reg c11;
