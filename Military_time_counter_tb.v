@@ -20,7 +20,7 @@ RESET=1;
 
 RESET=1;
 #10 RESET=0;
-#335
+#335;
 
 $finish;
 end
