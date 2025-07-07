@@ -9,7 +9,7 @@ begin
 if(rst)
 q<=4'b0000;
 else 
-if (q == 4'b1100)
+  if (q == 4'b1011)
 q<=4'b0000;
 else
 q<=q+1;
