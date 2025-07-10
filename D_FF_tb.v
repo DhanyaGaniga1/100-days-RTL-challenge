@@ -10,7 +10,7 @@ begin
 clk_tb = 1'b0;
 forever #1 
     clk_tb=~clk_tb;
-end
+end 
 
 initial
 begin
